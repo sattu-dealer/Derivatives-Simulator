@@ -1,7 +1,6 @@
 #Subhigya Priyansh
 #23IE10040
 #CDC 2k25
-#Imma gonna switch to dual degree soon I_I
 
 import numpy as np
 from datetime import datetime, timedelta
